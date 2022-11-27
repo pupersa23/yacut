@@ -72,6 +72,6 @@ SECRET_KEY=<Your secret key>
 flask run
 ```
 
-#Автор
+# Автор
 
 Рязанов Владимир
